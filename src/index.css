@@ -12,3 +12,10 @@ code {
     monospace;
 }
 
+.table-row-even {
+  background-color: #dbdbdb; /* Cor de fundo para linhas pares */
+}
+
+.table-row-odd {
+  background-color: #ffffff; /* Cor de fundo para linhas ímpares */
+}
